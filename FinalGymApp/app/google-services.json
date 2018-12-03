@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50847462452",
+    "firebase_url": "https://finalgymapp.firebaseio.com",
+    "project_id": "finalgymapp",
+    "storage_bucket": "finalgymapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50847462452:android:1d5c55e735ee6c67",
+        "android_client_info": {
+          "package_name": "com.example.ryanm.finalgymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50847462452-miks0b2nu8dn210t776jubk38qmlroaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryanm.finalgymapp",
+            "certificate_hash": "2bf2862e858925be5dc7eb7b00e88d9a6cb58165"
+          }
+        },
+        {
+          "client_id": "50847462452-qh38em65gjvm1l6q7pgli9i039m3b5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQdRHO28UbJtQp4oIqxv1UV9J_w6MVgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50847462452-qh38em65gjvm1l6q7pgli9i039m3b5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
